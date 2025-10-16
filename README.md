@@ -98,7 +98,10 @@ By the end of this assignment, you should be able to:
 
 ## **Output 1:**
 ```bash
+2a97e74f-cff2-45f7-81a1-89fd60a968f7,56,1.7,120.68,2025-10-16 02:43:46
 
+a8230b9b-dc72-4d7b-82ff-2295b2ddc3f4,4,4.2,68.23,2025-10-16 02:43:42
+fe57e0f2-db31-405b-a9e5-7dbeb89fe430,78,25.34,100.33,2025-10-16 02:43:44
 ```
 
 ---
