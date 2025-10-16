@@ -96,6 +96,11 @@ By the end of this assignment, you should be able to:
 3. Parse the JSON payload into columns.
 4. Print the parsed data to the console (using .writeStream.format("console")).
 
+## **Output 1:**
+```bash
+
+```
+
 ---
 
 ## **Task 2: Real-Time Aggregations (Driver-Level)**
@@ -112,6 +117,11 @@ By the end of this assignment, you should be able to:
 4. AVG(distance_km) as avg_distance
 5. Store the result in csv
 
+## **Output 2:**
+```bash
+
+```
+
 ---
 
 ## **Task 3: Windowed Time-Based Analytics**
@@ -124,6 +134,11 @@ By the end of this assignment, you should be able to:
 1. Convert the string-based timestamp column to a TimestampType column (e.g., event_time).
 2. Use Spark’s window function to aggregate over a 5-minute window, sliding by 1 minute, for the sum of fare_amount.
 3. Output the windowed results to csv.
+
+## **Output 3:**
+```bash
+
+```
 
 ---
 
