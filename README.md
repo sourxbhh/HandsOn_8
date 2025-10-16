@@ -186,7 +186,9 @@ driver_id,total_fare,avg_distance
 
 ## **Output 3:**
 ```bash
-
+window_start,window_end,sum_fare
+2025-10-16T02:41:00.000Z,2025-10-16T02:46:00.000Z,2081.61
+2025-10-16T02:42:00.000Z,2025-10-16T02:47:00.000Z,7172.3
 ```
 
 ---
